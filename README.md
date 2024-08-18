@@ -19,5 +19,5 @@ I have 3+ years of experience in developing industry level technical solutions a
 
 * Salesforce DX, CPQ, Apex, LWC
 * JavaScript, HTML, CSS, Postman API Platform
-* Integration, SQL, Aura Component, Java
-* Agile, VisualForce Page, Flow, Mulesoft Anypoint Platform
+* Integration, Agile, SQL, Java
+* Aura Component, VisualForce Page, Flow, Mulesoft Anypoint Platform
