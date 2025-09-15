@@ -17,7 +17,7 @@ I have 5 years of experience in developing industry level technical solutions ac
 
 ### Skills
 
-* Salesforce DX, CPQ, Apex, LWC
+* Salesforce DX, Apex, LWC, CPQ
 * JavaScript, HTML, CSS, Postman API Platform
 * Integration, Agile, SQL, Java
-* Aura Component, VisualForce Page, Flow, Mulesoft Anypoint Platform
+* Aura Component, VisualForce Page, Flow, Mulesoft Anypoint Platform, Copado
