@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Salesforce Developer
 --------------------
 
-I have 3+ years of experience in developing industry level technical solutions across the Salesforce platform. Throughout my journey, I have worked on various projects, with a sense of ownership throughout the lifecycle, from design, development, and testing to deployment and beyond.
+I have 5 years of experience in developing industry level technical solutions across the Salesforce platform. Throughout my journey, I have worked on various projects, with a sense of ownership throughout the lifecycle, from design, development, and testing to deployment and beyond.
 
 * 🌍  I'm based in Delhi, India
 * ✉️  You can contact me at [vanshikab221@gmail.com](mailto:vanshikab221@gmail.com)
